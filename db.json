@@ -32,118 +32,86 @@
     }
   ],
   "products": [
-  {
-    "id": 1,
-    "title": "Regular Fit Jersey top",
-    "price": "249.00",
-    "cat_prefix": "men",
-    "img": "https://images.unsplash.com/photo-1542060748-10c28b62716f"
-  },
-  {
-    "id": 2,
-    "title": "Slim Fit Cotton Shirt",
-    "price": "299.00",
-    "cat_prefix": "men",
-    "img": "https://images.unsplash.com/photo-1602810316760-9ae70f8fb9fc"
-  },
-  {
-    "id": 3,
-    "title": "Cotton Polo Shirt",
-    "price": "200.00",
-    "cat_prefix": "men",
-    "img": "https://images.unsplash.com/photo-1600180758890-6e1e8f3f2ef6"
-  },
-  {
-    "id": 4,
-    "title": "Relaxed Fit Hoodie",
-    "price": "399.00",
-    "cat_prefix": "men",
-    "img": "https://images.unsplash.com/photo-1593032465171-8b53ef79a17f"
-  },
-  {
-    "id": 5,
-    "title": "Cotton T-Shirt",
-    "price": "100.00",
-    "cat_prefix": "women",
-    "img": "https://images.unsplash.com/photo-1602290921661-c7ff45fa48f7"
-  },
-  {
-    "id": 6,
-    "title": "Sweatshirt Shorts",
-    "price": "300.00",
-    "cat_prefix": "women",
-    "img": "https://images.unsplash.com/photo-1582727461540-62c4644c62e8"
-  },
-  {
-    "id": 7,
-    "title": "Striped Blouse",
-    "price": "189.00",
-    "cat_prefix": "women",
-    "img": "https://images.unsplash.com/photo-1574180045827-681f8a1a9622"
-  },
-  {
-    "id": 8,
-    "title": "Linen Trousers",
-    "price": "349.00",
-    "cat_prefix": "women",
-    "img": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab"
-  },
-  {
-    "id": 9,
-    "title": "Velour Top",
-    "price": "300.00",
-    "cat_prefix": "kids",
-    "img": "https://images.unsplash.com/photo-1557169151-9911f5d5a1ab"
-  },
-  {
-    "id": 10,
-    "title": "Cartoon Sweatshirt",
-    "price": "280.00",
-    "cat_prefix": "kids",
-    "img": "https://images.unsplash.com/photo-1549924231-f129b911e442"
-  },
-  {
-    "id": 11,
-    "title": "Casual Kids T-Shirt",
-    "price": "180.00",
-    "cat_prefix": "kids",
-    "img": "https://images.unsplash.com/photo-1627308595229-7830a5c91f9f"
-  },
-  {
-    "id": 12,
-    "title": "Pile All-in-One Suit",
-    "price": "500.00",
-    "cat_prefix": "baby",
-    "img": "https://images.unsplash.com/photo-1560347876-aeef00ee58a1"
-  },
-  {
-    "id": 13,
-    "title": "Knitted Baby Set",
-    "price": "450.00",
-    "cat_prefix": "baby",
-    "img": "https://images.unsplash.com/photo-1614728894743-0f4c67d1c8de"
-  },
-  {
-    "id": 14,
-    "title": "Cute Bear Hoodie",
-    "price": "350.00",
-    "cat_prefix": "baby",
-    "img": "https://images.unsplash.com/photo-1607746882042-944635dfe10e"
-  },
-  {
-    "id": 15,
-    "title": "Football Jersey",
-    "price": "449.00",
-    "cat_prefix": "sport",
-    "img": "https://images.unsplash.com/photo-1606813902484-e4090fb6d928"
-  },
-  {
-    "id": 16,
-    "title": "Training Shorts",
-    "price": "299.00",
-    "cat_prefix": "sport",
-    "img": "https://images.unsplash.com/photo-1584467735871-89ec3dd1e4a6"
-  }
-]
-
+    {
+      "id": 1,
+      "title": "Jersey top",
+      "price": "249.00",
+      "cat_prefix": "men",
+      "img": "https://image.hm.com/assets/hm/be/a5/bea5d616ee7133b642fcdd93937786faeddbef4f.jpg?imwidth=1260",
+      "max": 4
+    },
+    {
+      "id": 2,
+      "title": "Regular Fit Jersey top",
+      "price": "229.00",
+      "cat_prefix": "men",
+      "img": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:9887ea00-8e39-419c-8cd7-0ec66a3107c5/as/EID-4ceea5f165f46ab19a195134b317294139b8e2de.jpg?width=450&height=675&preferwebp=true",
+      "max": 4
+    },
+    {
+      "id": 3,
+      "title": "Cotton polo shirt",
+      "price": "200.00",
+      "cat_prefix": "men",
+      "img": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:008d5028-8d21-4c2f-9d54-efd0844402c7/as/EID-c93f78f14b4d5659fc2f67842b0ab96607d2ba1f.jpg?width=450&height=675&preferwebp=true",
+      "max": 3
+    },
+    {
+      "id": 4,
+      "title": "Cotton t-shirt",
+      "price": "100.00",
+      "cat_prefix": "women",
+      "img": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:832b475b-8708-4256-9347-c82bb2ea4220/as/EID-25aa03c2b209c99778cf74339236b56afd400d49.jpg?width=450&height=675&preferwebp=true",
+      "max": 2
+    },
+    {
+      "id": 5,
+      "title": "Sweatshirt shorts",
+      "price": "300.00",
+      "cat_prefix": "women",
+      "img": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:d604f331-8241-4926-88e7-67a72ba3153b/as/EID-b17fd23ffbb46a3ab4db20465b85c6743263a2c5.jpg?width=450&height=675&preferwebp=true",
+      "max": 3
+    },
+    {
+      "id": 6,
+      "title": "Velour top",
+      "price": "300.00",
+      "cat_prefix": "kids",
+      "img": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:949cf838-8de1-4def-908d-9a165ab938ae/as/EID-985cafbfc4a8fea3f960e44ea75c2cd5bcba026e.jpg?width=450&height=675&preferwebp=true",
+      "max": 2
+    },
+    {
+      "id": 9,
+      "title": "Pile all-in-one suit with ears",
+      "price": "500.00",
+      "cat_prefix": "baby",
+      "img": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:08a394ce-4156-4154-99b7-49fed1c2c546/as/EID-563753adfe22bb43fa2fe92ac0db241c66853623.jpg?width=450&height=675&preferwebp=true",
+      "max": 2
+    },
+    {
+      "id": 17,
+      "title": "Regular Fit football shirt",
+      "price": "449.00",
+      "cat_prefix": "sport",
+      "img": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:7ae97300-b1d0-439b-a3c2-3a17e66b4327/as/EID-c40e8736070b9bf0cbd764da211bd537bfa6bceb.jpg?width=450&height=675&preferwebp=true",
+      "max": 2
+    }
+  ],
+  "wishlist": [
+    {
+      "userId": "1",
+      "productId": 4,
+      "id": 1
+    },
+    {
+      "userId": "1",
+      "productId": 3,
+      "id": 2
+    },
+    {
+      "userId": "1",
+      "productId": 9,
+      "id": 3
+    }
+  ]
 }
