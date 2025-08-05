@@ -1,4 +1,10 @@
 {
+  "users":[
+    {
+      "email": "ammarelmihy@gmail.com",
+      "password": "ammar@123"
+    }
+  ],
   "categories": [
     {
       "id": 1,
@@ -97,21 +103,5 @@
       "max": 2
     }
   ],
-  "wishlist": [
-    {
-      "userId": "1",
-      "productId": 4,
-      "id": 1
-    },
-    {
-      "userId": "1",
-      "productId": 3,
-      "id": 2
-    },
-    {
-      "userId": "1",
-      "productId": 9,
-      "id": 3
-    }
-  ]
+  "wishlist": []
 }
