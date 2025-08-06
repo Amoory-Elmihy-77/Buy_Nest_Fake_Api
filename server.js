@@ -13,7 +13,7 @@ app.use(jsonServer.defaults());
 app.use(auth);
 app.use(router);
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 5005;
 app.listen(PORT, () => {
   console.log(`✅ JSON Server with Auth running on port ${PORT}`);
 });
