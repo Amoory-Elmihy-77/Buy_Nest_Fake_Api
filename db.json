@@ -1,8 +1,25 @@
 {
-  "users":[
+  "users": [
     {
-      "email": "ammarelmihy@gmail.com",
-      "password": "ammar@123"
+      "email": "ammar@gmail.com",
+      "password": "$2a$10$NFYudj7LBX4R6k8iaBz1Pe2QoXcqgFJOv3Yt6Twdc8oSLBbzNpElq",
+      "firstName": "Ammar",
+      "lastName": "Elmihy",
+      "id": 1
+    },
+    {
+      "email": "ahmed@gmail.com",
+      "password": "$2a$10$iP.BRVqPFlTz59UwM90M6OM2kiU7b3xaFfWyv2IEwYPV1zD4cZM0y",
+      "firstName": "Ahmed",
+      "lastName": "Elmihy",
+      "id": 2
+    },
+    {
+      "email": "degdeg@gmail.com",
+      "password": "$2a$10$yC7/EUwNk3gGdd7d9Tet7ejHBaOeDqf5qpJk5pEvWbxHtR2TA2kDC",
+      "firstName": "Degdeg",
+      "lastName": "Elsamoly",
+      "id": 3
     }
   ],
   "categories": [
@@ -103,5 +120,31 @@
       "max": 2
     }
   ],
-  "wishlist": []
+  "wishlist": [
+    {
+      "userId": "1",
+      "productId": 3,
+      "id": 2
+    },
+    {
+      "userId": "1",
+      "productId": 6,
+      "id": 3
+    },
+    {
+      "userId": "1",
+      "productId": 17,
+      "id": 4
+    },
+    {
+      "userId": 3,
+      "productId": 9,
+      "id": 5
+    },
+    {
+      "userId": 3,
+      "productId": 17,
+      "id": 6
+    }
+  ]
 }
